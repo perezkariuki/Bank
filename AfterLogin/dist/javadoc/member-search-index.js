@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"afterlogin","c":"AfterLogin","l":"AfterLogin()","url":"%3Cinit%3E()"},{"p":"afterlogin","c":"AfterLogin","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"afterlogin","c":"AfterLogin","l":"start(Stage)","url":"start(javafx.stage.Stage)"}]
